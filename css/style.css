@@ -1,5 +1,5 @@
 :root {
-  --font-family2: "Raleway", sans-serif;
+  --font-family2: 'Raleway', sans-serif;
   --color1: #2196f3;
   --color2: #212121;
   --color3: #188ce8;
@@ -7,8 +7,8 @@
   --color5: #2f303a;
   --color6: #757575;
   --color7: #f5f4fa;
-  --team-card-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12),
-    0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+  --team-card-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
   --card-gap: 30px;
 }
 
@@ -52,7 +52,7 @@ button {
 }
 
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
+  font-family: 'Roboto', 'Raleway', sans-serif;
   color: var(--color6);
   font-size: 14px;
 }
@@ -368,7 +368,7 @@ body {
 
 .main-button-port,
 .secondary {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: inherit;
   font-weight: 500;
   font-size: 16px;
